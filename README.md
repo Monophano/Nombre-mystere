@@ -42,4 +42,6 @@ Profiter bien de ce jeu
 
 ## Contributions
 Si vous êtes interéssé pour contribuer au développement ainsi qu'a la correction des bugs de mon jeux
-vous pouvez me joindre sur discord à Monophano#4274 et prendre le temps de lire [contribution.md](Contribution.md)
+vous pouvez me joindre sur discord à Monophano#4274.
+
+Si vous souhaitez contribuer à ce projet, veuillez consulter le fichier [Contributions](./Contribution.md) pour plus d'informations.
