@@ -1,6 +1,8 @@
 # Trouve le Nombre Mystère
 Le but de ce jeu consiste a trouver un nombre génerer aléatoirement en un nombre d'éssaie resteint
 
+![Capture](https://user-images.githubusercontent.com/89103355/222270825-d832e829-3ab4-4137-9de0-c98b56e1d1b9.PNG)
+
 ## Fonctionnalités
 4 modes de jeux sont actuellemnt disponibles :
     - Facile
@@ -8,6 +10,7 @@ Le but de ce jeu consiste a trouver un nombre génerer aléatoirement en un nomb
     - Difficile
     - Personnalisé
 
+## Gameplay
 Caractéristiques du mode Facile
 
     - Nombre d'éssaie = 10
@@ -39,4 +42,4 @@ Profiter bien de ce jeu
 
 ## Contributions
 Si vous êtes interéssé pour contribuer au développement ainsi qu'a la correction des bugs de mon jeux
-vous pouvez me joindre sur discord à Monophano#4274
+vous pouvez me joindre sur discord à Monophano#4274 et prendre le temps de lire [contribution.md] (Contribution.md)
