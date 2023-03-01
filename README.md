@@ -1,6 +1,7 @@
-# Nombre Mystère
+# Trouve le Nombre Mystère
 Le but de ce jeu consiste a trouver un nombre génerer aléatoirement en un nombre d'éssaie resteint
 
+## Fonctionnalités
 4 modes de jeux sont actuellemnt disponibles :
     - Facile
     - Normale
@@ -29,7 +30,9 @@ Caractéristiques du mode Personnalisé
     
 ## Installation
 Le jeu est adapté au processeur 32 et 64 bits
+Il suffit de télechargé et lancer le fichiers nommés : Nombre mystere.exe
 * https://github.com/Monophano/Nombre-mystere/blob/main/Nombre%20mystere.exe
+Profiter bien de ce jeu
 
 ## Contributions
 Si vous êtes interéssé pour contribuer au développement ainsi qu'a la correction des bugs de mon jeux
