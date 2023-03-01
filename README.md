@@ -27,3 +27,10 @@ Caractéristiques du mode Personnalisé
     - Possibilités de choisir le nombre d'éssaie
     - Possibilités de choisir les bornes de définition du nombre aléatoire
     
+## Installation
+Le jeu est adapté au processeur 32 et 64 bits
+* https://github.com/Monophano/Nombre-mystere/blob/main/Nombre%20mystere.exe
+
+## Contributions
+Si vous êtes interéssé pour contribuer au développement ainsi qu'a la correction des bugs de mon jeux
+vous pouvez me joindre sur discord à Monophano#4274
