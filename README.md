@@ -32,6 +32,7 @@ Caractéristiques du mode Personnalisé
 Le jeu est adapté au processeur 32 et 64 bits
 Il suffit de télechargé et lancer le fichiers nommés : Nombre mystere.exe
 * https://github.com/Monophano/Nombre-mystere/blob/main/Nombre%20mystere.exe
+
 Profiter bien de ce jeu
 
 ## Contributions
