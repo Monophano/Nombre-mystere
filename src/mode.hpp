@@ -7,7 +7,7 @@
 			void Facile();
 			void Moyen();
 			void Difficile();
-			void Personnalisé();
+			void Personnalise();
 
 			int nb_random;
 			int nb_choisi;

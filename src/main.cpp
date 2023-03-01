@@ -15,7 +15,7 @@ int main()
 	cout << "	1 - Facile" << endl;
 	cout << "	2 - Moyen" << endl;
 	cout << "	3 - Difficile" << endl;
-	cout << "	4 - Personnalisé" << endl;
+	cout << "	4 - Personnalise" << endl;
 
 	cout << "Mode jeu : ";
 	cin >> choix_mode;
@@ -37,7 +37,7 @@ int main()
 
 	else if (choix_mode == 4)
 	{
-		mode.Personnalisé();
+		mode.Personnalise();
 	}
 
 	return 0;

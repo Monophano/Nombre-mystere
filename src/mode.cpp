@@ -29,7 +29,7 @@ void Mode::Facile()
 		else if (mode.nb_try == 0)
 		{
 			cout << "Perdu" << endl;
-			cout << "Le nombre mystere était " << mode.nb_random << endl;
+			cout << "Le nombre mystere etait " << mode.nb_random << endl;
 			break;
 		}
 
@@ -70,7 +70,7 @@ void Mode::Moyen()
 		else if (mode.nb_try == 0)
 		{
 			cout << "Perdu" << endl;
-			cout << "Le nombre mystere était " << mode.nb_random << endl;
+			cout << "Le nombre mystere etait " << mode.nb_random << endl;
 			break;
 		}
 
@@ -111,7 +111,7 @@ void Mode::Difficile()
 		else if (mode.nb_try == 0)
 		{
 			cout << "Perdu" << endl;
-			cout << "Le nombre mystere était " << mode.nb_random << endl;
+			cout << "Le nombre mystere etait " << mode.nb_random << endl;
 			break;
 		}
 
@@ -129,11 +129,11 @@ void Mode::Difficile()
 	}
 }
 
-void Mode::Personnalisé()
+void Mode::Personnalise()
 {
 	srand(time(nullptr));
 
-	cout << "Choisisser le nombre déssaie : ";
+	cout << "Choisisser le nombre d'essaie : ";
 	cin >> mode.nb_try;
 
 	cout << "Choisisser la borne maximum : ";
@@ -146,9 +146,9 @@ void Mode::Personnalisé()
 
 	while (mode.nb_choisi != mode.nb_random)
 	{
-		cout << "Trouver le nombre aléatoire entre " << mode.borne_min << " et " << mode.borne_max << " : ";
+		cout << "Trouver le nombre aleatoire entre " << mode.borne_min << " et " << mode.borne_max << " : ";
 		cin >> mode.nb_choisi;
-		
+
 		mode.nb_try = mode.nb_try - 1;
 
 		if (mode.nb_choisi == mode.nb_random)
@@ -159,8 +159,8 @@ void Mode::Personnalisé()
 
 		else if (mode.nb_try == 0)
 		{
-			cout << "Perdu" << endl;
-			cout << "Le nombre mystere était " << mode.nb_random << endl;
+			cout << "Perdue" << endl;
+			cout << "Le nombre mystere etait " << mode.nb_random << endl;
 			break;
 		}
 
