@@ -136,7 +136,7 @@ void Mode::Personnalisé()
 	cout << "Choisisser le nombre déssaie : ";
 	cin >> mode.nb_try;
 
-	cout << "Choisisser la borne mximum : ";
+	cout << "Choisisser la borne maximum : ";
 	cin >> mode.borne_max;
 
 	cout << "Choisisser la borne minimum : ";
