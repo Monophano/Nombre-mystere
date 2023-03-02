@@ -5,6 +5,7 @@ Le but de ce jeu consiste a trouver un nombre génerer aléatoirement en un nomb
 
 ## Fonctionnalités
 4 modes de jeux sont actuellemnt disponibles :
+
     - Facile
     - Normale
     - Difficile
