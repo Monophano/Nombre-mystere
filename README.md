@@ -39,7 +39,7 @@ Il suffit de télechargé et lancer le fichiers nommés : Nombre mystere.exe
 
 * https://github.com/Monophano/Nombre-mystere/blob/main/Nombre%20Mystere.exe
 
-Attention 
+Attention, aucune dépendance n'est requise pour l'installation
 
 Profiter bien de ce jeu
 
