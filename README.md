@@ -37,7 +37,9 @@ Le jeu est adapté au processeur 32 et 64 bits
 
 Il suffit de télechargé et lancer le fichiers nommés : Nombre mystere.exe
 
-* https://github.com/Monophano/Nombre-mystere/blob/main/Nombre%20mystere.exe
+* https://github.com/Monophano/Nombre-mystere/blob/main/Nombre%20Mystere.exe
+
+Attention 
 
 Profiter bien de ce jeu
 
@@ -45,4 +47,4 @@ Profiter bien de ce jeu
 Si vous êtes interéssé pour contribuer au développement ainsi qu'a la correction des bugs de mon jeux
 vous pouvez me joindre sur discord à Monophano#4274.
 
-Si vous souhaitez contribuer à ce projet, veuillez consulter le fichier [Contributions](./Contribution.md) pour plus d'informations.
+Vous pouvez aussi consulter le fichier [Contributions](./Contribution.md) pour plus d'informations.
