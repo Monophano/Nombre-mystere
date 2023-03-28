@@ -37,7 +37,7 @@ Le jeu est adapté au processeur 32 et 64 bits
 
 Il suffit de télechargé et lancer le fichiers nommés : Nombre mystere.exe
 
-* https://github.com/Monophano/Nombre-mystere/blob/main/Nombre%20Mystere.exe
+* https://github.com/Monophano/Nombre-mystere/blob/main/Nb_mystere.exe
 
 Attention, aucune dépendance n'est requise pour l'installation
 
