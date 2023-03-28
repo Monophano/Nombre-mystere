@@ -4,7 +4,7 @@ Le but de ce jeu consiste a trouver un nombre génerer aléatoirement en un nomb
 ![Capture](https://user-images.githubusercontent.com/89103355/222270825-d832e829-3ab4-4137-9de0-c98b56e1d1b9.PNG)
 
 ## Fonctionnalités
-4 modes de jeux sont actuellemnt disponibles :
+4 modes de jeux sont actuellement disponibles :
 
     - Facile
     - Normale
