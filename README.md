@@ -39,7 +39,7 @@ Il suffit de télechargé et lancer le fichiers nommés : Nombre mystere.exe
 
 * https://github.com/Monophano/Nombre-mystere/blob/main/Nb_mystere.exe
 
-Attention, aucune dépendance n'est requise pour l'installation
+Attention, si le fichier ne se lance pas veuillez installer les dll de mingw
 
 Profiter bien de ce jeu
 
