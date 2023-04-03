@@ -11,7 +11,7 @@ Le but de ce jeu consiste a trouver un nombre génerer aléatoirement en un nomb
     - Difficile
     - Personnalisé
 
-## Gameplay
+### Gameplay
 Caractéristiques du mode Facile
 
     - Nombre d'éssaie = 10
